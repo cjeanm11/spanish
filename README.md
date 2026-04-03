@@ -9,12 +9,10 @@ A comprehensive guide to Spanish grammar and vocabulary with French translations
 1. [Articles](#articles)
 2. [Pronouns](#pronouns)
 3. [Core Verbs](#core-verbs)
-4. [Conjugation (-ar)](#conjugation--ar-)
+4. [Conjugation](#conjugation)
 5. [Conjunctions](#conjunctions)
 6. [Prepositions](#prepositions)
 7. [Vocabulary](#vocabulary)
-8. [Additional Adjectives](#additional-adjectives)
-9. [Comparison](#comparison)
 
 ---
 
@@ -143,7 +141,7 @@ Quick rules
 * tener → possession, age, sensations
 * hablar → action of speaking
 
-## Conjugation (-ar)
+## Conjugation
 
 Core Conjugation (use all the time)
 * ser → être
@@ -216,7 +214,6 @@ Quick rule
 
 ## Conjunctions
 
-Core (use all the time)
 * y → et
 * o → ou
 * pero → mais
@@ -272,7 +269,6 @@ cuando (321–380)
 
 ## Prepositions
 
-Core Prepositions (use all the time)
 * a → à
 * de → de
 * en → dans
@@ -421,7 +417,6 @@ fillers / directional / idiomatic (401–500)
 
 ## Vocabulary
 
-1. People / Family / Friends (1–50)
 1. persona → personne
 2. hombre → homme
 3. mujer → femme
@@ -473,7 +468,6 @@ fillers / directional / idiomatic (401–500)
 49. héroe → héros
 50. heroína → héroïne
 
-2. Places / Buildings / Geography (51–100)
 1. casa → maison
 2. apartamento → appartement
 3. escuela → école
@@ -749,7 +743,6 @@ fillers / directional / idiomatic (401–500)
 79. próximamente → prochainement
 80. hoy por hoy → aujourd’hui
 
-6. Prepositions (321–360)
 1. a → à / vers
 2. de → de / du
 3. en → dans / sur
@@ -812,9 +805,6 @@ fillers / directional / idiomatic (401–500)
 19. porque sí → juste parce que
 20. aunque no → même si pas
 
-### Pronouns (Vocabulary)
-
-Subject Pronouns
 1. yo → je
 2. tú → tu
 3. él → il
