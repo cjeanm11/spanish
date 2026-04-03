@@ -55,7 +55,7 @@ Core (use all the time)
 
 ## Pronouns
 
-### Subject Pronouns
+Subject Pronouns
 
 | Spanish              | French                        | Notes                    |
 |----------------------|-------------------------------|--------------------------|
@@ -69,7 +69,7 @@ Core (use all the time)
 | usted                | vous (singulier formel)       | you (formal singular)    |
 | ustedes              | vous (pluriel formel)         | you (formal plural)      |
 
-#### Examples
+Examples
 - Yo estudio → J’étudie
 - Tú hablas → Tu parles
 - Él trabaja → Il travaille
@@ -80,9 +80,8 @@ Core (use all the time)
 - Usted es profesor → Vous êtes professeur
 - Ustedes vienen → Vous venez
 
----
 
-### Object Pronouns
+Object Pronouns
 
 | Spanish    | French         | Notes                  |
 |------------|---------------|------------------------|
@@ -93,7 +92,7 @@ Core (use all the time)
 | os         | vous          | you (plural)           |
 | los / las  | les           | them                   |
 
-#### Examples
+Examples
 - Él me llama → Il m’appelle
 - Yo te veo → Je te vois
 - Ella lo conoce → Elle le connaît
@@ -103,7 +102,7 @@ Core (use all the time)
 
 ---
 
-### Reflexive Pronouns
+Reflexive Pronouns
 
 | Spanish | French | Notes         |
 |---------|--------|---------------|
@@ -113,16 +112,16 @@ Core (use all the time)
 | nos     | nous  | ourselves     |
 | os      | vous  | yourselves    |
 
-#### Examples
+Examples
 - Yo me levanto → Je me lève
 - Tú te duchas → Tu te douches
 - Él se baña → Il se baigne
 - Nosotros nos divertimos → Nous nous amusons
 - Ellos se llaman → Ils s’appellent
 
----
 
-### Quick Rules
+
+Quick Rules
 
 - **Subject pronouns**: who does the action  
 - **Object pronouns**: who receives the action  
