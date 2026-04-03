@@ -100,8 +100,6 @@ Examples
 - Vosotros os laváis → Vous vous lavez
 - Ellos los buscan → Ils les cherchent
 
----
-
 Reflexive Pronouns
 
 | Spanish | French | Notes         |
@@ -118,8 +116,6 @@ Examples
 - Él se baña → Il se baigne
 - Nosotros nos divertimos → Nous nous amusons
 - Ellos se llaman → Ils s’appellent
-
-
 
 Quick Rules
 
