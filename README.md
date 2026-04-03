@@ -55,57 +55,81 @@ Core (use all the time)
 
 ## Pronouns
 
-Subject Pronouns
-* yo → je
-* tú → tu
-* él → il
-* ella → elle
-* nosotros / nosotras → nous
-* vosotros / vosotras → vous (pluriel familier)
-* ellos / ellas → ils / elles
-* usted → vous (singulier formel)
-* ustedes → vous (pluriel formel)
-Examples (1–80)
-* Yo estudio → J’étudie
-* Tú hablas → Tu parles
-* Él trabaja → Il travaille
-* Ella vive aquí → Elle vit ici
-* Nosotros comemos → Nous mangeons
-* Vosotros vais → Vous allez
-* Ellos leen → Ils lisent
-* Usted es profesor → Vous êtes professeur
-* Ustedes vienen → Vous venez
-Object Pronouns (81–160)
-* me → me / moi
-* te → te / toi
-* lo / la → le / la
-* nos → nous
-* os → vous
-* los / las → les
-Examples:
-* Él me llama → Il m’appelle
-* Yo te veo → Je te vois
-* Ella lo conoce → Elle le connaît
-* Nosotros nos ayudamos → Nous nous aidons
-* Vosotros os laváis → Vous vous lavez
-* Ellos los buscan → Ils les cherchent
-Reflexive Pronouns (161–240)
-* me → me
-* te → te
-* se → se
-* nos → nous
-* os → vous
-* se → se
-Examples:
-* Yo me levanto → Je me lève
-* Tú te duchas → Tu te douches
-* Él se baña → Il se baigne
-* Nosotros nos divertimos → Nous nous amusons
-* Ellos se llaman → Ils s’appellent
-Quick Rule
-* Subject pronouns → who does the action
-* Object pronouns → who receives the action
-* Reflexive pronouns → action on self
+### Subject Pronouns
+
+| Spanish              | French                        | Notes                    |
+|----------------------|-------------------------------|--------------------------|
+| yo                   | je                            | I                        |
+| tú                   | tu                            | you (informal singular)  |
+| él                   | il                            | he                       |
+| ella                 | elle                          | she                      |
+| nosotros / nosotras  | nous                          | we (masc./fem.)          |
+| vosotros / vosotras  | vous (pluriel familier)       | you (plural, informal)   |
+| ellos / ellas        | ils / elles                   | they (masc./fem.)        |
+| usted                | vous (singulier formel)       | you (formal singular)    |
+| ustedes              | vous (pluriel formel)         | you (formal plural)      |
+
+#### Examples
+- Yo estudio → J’étudie
+- Tú hablas → Tu parles
+- Él trabaja → Il travaille
+- Ella vive aquí → Elle vit ici
+- Nosotros comemos → Nous mangeons
+- Vosotros vais → Vous allez
+- Ellos leen → Ils lisent
+- Usted es profesor → Vous êtes professeur
+- Ustedes vienen → Vous venez
+
+---
+
+### Object Pronouns
+
+| Spanish    | French         | Notes                  |
+|------------|---------------|------------------------|
+| me         | me / moi      | me                     |
+| te         | te / toi      | you                    |
+| lo / la    | le / la       | him/it, her/it         |
+| nos        | nous          | us                     |
+| os         | vous          | you (plural)           |
+| los / las  | les           | them                   |
+
+#### Examples
+- Él me llama → Il m’appelle
+- Yo te veo → Je te vois
+- Ella lo conoce → Elle le connaît
+- Nosotros nos ayudamos → Nous nous aidons
+- Vosotros os laváis → Vous vous lavez
+- Ellos los buscan → Ils les cherchent
+
+---
+
+### Reflexive Pronouns
+
+| Spanish | French | Notes         |
+|---------|--------|---------------|
+| me      | me    | myself        |
+| te      | te    | yourself      |
+| se      | se    | himself/herself/itself/themselves |
+| nos     | nous  | ourselves     |
+| os      | vous  | yourselves    |
+
+#### Examples
+- Yo me levanto → Je me lève
+- Tú te duchas → Tu te douches
+- Él se baña → Il se baigne
+- Nosotros nos divertimos → Nous nous amusons
+- Ellos se llaman → Ils s’appellent
+
+---
+
+### Quick Rules
+
+- **Subject pronouns**: who does the action  
+- **Object pronouns**: who receives the action  
+- **Reflexive pronouns**: action done to oneself
+
+---
+
 
 ## Core Verbs
 
