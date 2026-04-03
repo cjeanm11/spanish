@@ -3,6 +3,7 @@
 A comprehensive guide to Spanish grammar and vocabulary with French translations and practical examples.
 
 ---
+Core (use all the time)
 
 ## Table of Contents
 
