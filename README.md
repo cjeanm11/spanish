@@ -848,64 +848,125 @@ qué (quoi/que), cómo (comment), cuándo (quand), dónde (où), quién (qui), c
 
 ## Adjectives
 
-1.	grande → grand / grande
-2.	pequeño / pequeña → petit / petite
-3.	bueno / buena → bon / bonne
-4.	malo / mala → mauvais / mauvaise
-5.	bonito / bonita → joli / jolie
-6.	hermoso / hermosa → beau / belle
-7.	joven → jeune
-8.	viejo / vieja → vieux / vieille
-9.	nuevo / nueva → nouveau / nouvelle
-10.	antiguo / antigua → ancien / ancienne
-11.	fuerte → fort / forte
-12.	débil → faible
-13.	caliente → chaud / chaude
-14.	frío / fría → froid / froide
-15.	largo / larga → long / longue
-16.	corto / corta → court / courte
-17.	rápido / rápida → rapide
-18.	lento / lenta → lent / lente
-19.	limpio / limpia → propre
-20.	sucio / sucia → sale
-21.	interesante → intéressant / intéressante
-22.	aburrido / aburrida → ennuyeux / ennuyeuse
-23.	importante → important / importante
-24.	fácil → facile
-25.	difícil → difficile
-26.	posible → possible
-27.	imposible → impossible
-28.	feliz → heureux / heureuse
-29.	triste → triste
-30.	amable → gentil / gentille
-31.	malo / mala → méchant / méchante
-32.	rico / rica → riche
-33.	pobre → pauvre
-34.	contento / contenta → content / contente
-35.	verdadero / verdadera → vrai / vraie
-36.	falso / falsa → faux / fausse
-37.	próximo / próxima → prochain / prochaine
-38.	último / última → dernier / dernière
-39.	mismo / misma → même
-40.	diferente → différent / différente
-41.	gordo / gorda → gros / grosse
-42.	delgado / delgada → mince
-43.	ligero / ligera → léger / légère
-44.	pesado / pesada → lourd / lourde
-45.	ancho / ancha → large
-46.	estrecho / estrecha → étroit / étroite
-47.	redondo / redonda → rond / ronde
-48.	cuadrado / cuadrada → carré / carrée
-49.	plano / plana → plat / plate
-50.	alto / alta → haut / haute
-51.	bajo / baja → bas / basse
-52.	profundo / profunda → profond / profonde
-53.	superficial → superficiel / superficielle
-54.	claro / clara → clair / claire
-55.	oscuro / oscura → sombre
-56.	brillante → brillant / brillante
-57.	mate → mat / mate
-58.	seco / seca → sec / sèche
-59.	blando / blanda → mou / molle
-60.	duro / dura → dur / dure
+Adjectives describe qualities, states, or characteristics. Below are high-frequency Spanish adjectives with their French equivalents, grouped by theme.
 
+
+Basic Description
+
+| Spanish         | French                |
+|-----------------|----------------------|
+| grande          | grand / grande       |
+| pequeño/a       | petit / petite       |
+| bueno/a         | bon / bonne          |
+| malo/a          | mauvais / mauvaise   |
+| bonito/a        | joli / jolie         |
+| hermoso/a       | beau / belle         |
+| joven           | jeune                |
+| viejo/a         | vieux / vieille      |
+| nuevo/a         | nouveau / nouvelle   |
+| antiguo/a       | ancien / ancienne    |
+| fuerte          | fort / forte         |
+| débil           | faible               |
+| caliente        | chaud / chaude       |
+| frío/a          | froid / froide       |
+| largo/a         | long / longue        |
+| corto/a         | court / courte       |
+| rápido/a        | rapide               |
+| lento/a         | lent / lente         |
+| limpio/a        | propre               |
+| sucio/a         | sale                 |
+
+
+Opinion / Quality
+
+| Spanish         | French                      |
+|-----------------|----------------------------|
+| interesante     | intéressant / intéressante  |
+| aburrido/a      | ennuyeux / ennuyeuse       |
+| importante      | important / importante      |
+| fácil           | facile                      |
+| difícil         | difficile                   |
+| posible         | possible                    |
+| imposible       | impossible                  |
+| feliz           | heureux / heureuse          |
+| triste          | triste                      |
+| amable          | gentil / gentille           |
+| malo/a          | méchant / méchante          |
+| rico/a          | riche                       |
+| pobre           | pauvre                      |
+| contento/a      | content / contente          |
+| verdadero/a     | vrai / vraie                |
+| falso/a         | faux / fausse               |
+| próximo/a       | prochain / prochaine        |
+| último/a        | dernier / dernière          |
+| mismo/a         | même                        |
+| diferente       | différent / différente      |
+
+
+Size, Shape, Appearance
+
+| Spanish         | French                      |
+|-----------------|----------------------------|
+| gordo/a         | gros / grosse              |
+| delgado/a       | mince                      |
+| ligero/a        | léger / légère             |
+| pesado/a        | lourd / lourde             |
+| ancho/a         | large                      |
+| estrecho/a      | étroit / étroite           |
+| redondo/a       | rond / ronde               |
+| cuadrado/a      | carré / carrée             |
+| plano/a         | plat / plate               |
+| alto/a          | haut / haute               |
+| bajo/a          | bas / basse                |
+| profundo/a      | profond / profonde         |
+| superficial     | superficiel / superficielle|
+| claro/a         | clair / claire             |
+| oscuro/a        | sombre                     |
+| brillante       | brillant / brillante       |
+| mate            | mat / mate                 |
+| seco/a          | sec / sèche                |
+| blando/a        | mou / molle                |
+| duro/a          | dur / dure                 |
+
+
+Colors
+
+| Spanish         | French                      |
+|-----------------|----------------------------|
+| blanco/a        | blanc / blanche            |
+| negro/a         | noir / noire               |
+| rojo/a          | rouge                      |
+| azul            | bleu                       |
+| verde           | vert                       |
+| amarillo/a      | jaune                      |
+| marrón/pardo    | marron                     |
+| gris            | gris                       |
+| naranja         | orange                     |
+| rosa            | rose                       |
+
+Other Useful Adjectives
+
+| Spanish         | French                      |
+|-----------------|----------------------------|
+| caro/a          | cher / chère               |
+| barato/a        | pas cher / pas chère       |
+| lleno/a         | plein / pleine             |
+| vacío/a         | vide                       |
+| cerca           | proche                     |
+| lejos           | loin                       |
+| contento/a      | content / contente         |
+| enfermo/a       | malade                     |
+| sano/a          | sain / saine               |
+| tranquilo/a     | tranquille                 |
+| ocupado/a       | occupé / occupée           |
+| libre           | libre                      |
+| grueso/a        | épais / épaisse            |
+| delgado/a       | mince                      |
+| pesado/a        | lourd / lourde             |
+| ligero/a        | léger / légère             |
+
+
+**Tip:**  
+Most adjectives agree in gender and number with the noun they describe (e.g., _niño pequeño_, _niña pequeña_, _niños pequeños_, _niñas pequeñas_).
+
+---
