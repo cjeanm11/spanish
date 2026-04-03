@@ -31,14 +31,14 @@ Core (use all the time)
 | unos    | des (masculin)   | Masculin pluriel indéfini|
 | unas    | des (féminin)    | Féminin pluriel indéfini |
 
-### Quick Rules
+Quick Rules
 
 - **el / la / los / las** → specific (the)  
   _Use for something known or previously mentioned._
 - **un / una / unos / unas** → general (a / some)  
   _Use for something non-specific or mentioned for the first time._
 
-### Examples
+Examples
 
 - **el libro** → le livre (the book)
 - **la casa** → la maison (the house)
