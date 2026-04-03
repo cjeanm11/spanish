@@ -1,6 +1,25 @@
-SPANISH
+# Spanish Language Reference for French Speakers
 
-1. Articles
+A comprehensive guide to Spanish grammar and vocabulary with French translations and practical examples.
+
+---
+
+## Table of Contents
+
+1. [Articles](#articles)
+2. [Pronouns](#pronouns)
+3. [Core Verbs](#core-verbs)
+4. [Conjugation (-ar)](#conjugation--ar-)
+5. [Conjunctions](#conjunctions)
+6. [Prepositions](#prepositions)
+7. [Vocabulary](#vocabulary)
+8. [Additional Adjectives](#additional-adjectives)
+9. [Comparison](#comparison)
+
+---
+
+## Articles
+
 Core Articles (use all the time)
 * el → le
 * la → la
@@ -14,8 +33,8 @@ Quick rule
 * el / la / los / las → specific (the)
 * un / una / unos / unas → general (a / some)
 
+## Pronouns
 
-2. Pronouns
 Subject Pronouns
 * yo → je
 * tú → tu
@@ -68,9 +87,8 @@ Quick Rule
 * Object pronouns → who receives the action
 * Reflexive pronouns → action on self
 
+## Core Verbs
 
-
-3. Core verbs (ser, estar, tener)
 Core Verbs (use all the time)
 * ser → être (permanent / essential)
 * estar → être (temporary / location)
@@ -125,9 +143,8 @@ Quick rules
 * tener → possession, age, sensations
 * hablar → action of speaking
 
+## Conjugation (-ar)
 
-
-4. Conjugation (-ar)
 Core Conjugation (use all the time)
 * ser → être
 * estar → être
@@ -197,10 +214,8 @@ Quick rule
 * hacer → action / creation / tasks
 * hablar → communication / speech
 
+## Conjunctions
 
-
-
-5. Conjunctions
 Core (use all the time)
 * y → et
 * o → ou
@@ -255,11 +270,8 @@ cuando (321–380)
 * cuando trabajo, gano → quand je travaille, je gagne
 * cuando paro, pienso → quand j’arrête, je réfléchis
 
+## Prepositions
 
-
-
-
-6. Prepositions
 Core Prepositions (use all the time)
 * a → à
 * de → de
@@ -407,11 +419,7 @@ fillers / directional / idiomatic (401–500)
 * me siento entre mis amigos → je m’assois entre mes amis
 * paso por el puente → je passe par le pont
 
-
-
-
-7. Vocabulary (start early)
-#500 Core Spanish Words (High Frequency)
+## Vocabulary
 
 1. People / Family / Friends (1–50)
 1. persona → personne
@@ -783,7 +791,6 @@ fillers / directional / idiomatic (401–500)
 39. gracias a → grâce à
 40. a pesar de → malgré
 
-7. Conjunctions (361–380)
 1. y → et
 2. o → ou
 3. pero → mais
@@ -805,7 +812,8 @@ fillers / directional / idiomatic (401–500)
 19. porque sí → juste parce que
 20. aunque no → même si pas
 
-8. Pronouns (381–440)
+### Pronouns (Vocabulary)
+
 Subject Pronouns
 1. yo → je
 2. tú → tu
@@ -875,244 +883,67 @@ Demonstrative / Neutral / Misc
 9. consigo → avec lui / elle / eux
 10. nosotros mismos / nosotras mismas → nous-mêmes
 11. vosotros mismos / vosotras mismas → vous-mêmes
-9. Numbers, Colors, Time, Question Words (441–500)
-Numbers
-1. uno → un
-2. dos → deux
-3. tres → trois
-4. cuatro → quatre
-5. cinco → cinq
-6. seis → six
-7. siete → sept
-8. ocho → huit
-9. nueve → neuf
-10. diez → dix
-11. once → onze
-12. doce → douze
-13. trece → treize
-14. catorce → quatorze
-15. quince → quinze
-16. veinte → vingt
-17. treinta → trente
-18. cuarenta → quarante
-19. cincuenta → cinquante
-20. cien → cent
-Colors
-1. blanco / blanca → blanc / blanche
-2. negro / negra → noir / noire
-3. rojo / roja → rouge
-4. azul → bleu
-5. verde → vert
-6. amarillo / amarilla → jaune
-7. marrón / pardo → marron
-8. gris → gris
-9. naranja → orange
-10. rosa → rose
-Time / Days / Months
-1. hoy → aujourd’hui
-2. mañana → demain
-3. ayer → hier
-4. día → jour
-5. noche → nuit
-6. semana → semaine
-7. mes → mois
-8. año → année
-9. lunes → lundi
-10. martes → mardi
-11. miércoles → mercredi
-12. jueves → jeudi
-13. viernes → vendredi
-14. sábado → samedi
-15. domingo → dimanche
-16. enero → janvier
-17. febrero → février
-18. marzo → mars
-19. abril → avril
-20. mayo → mai
-21. junio → juin
-22. julio → juillet
-23. agosto → août
-24. septiembre → septembre
-25. octubre → octobre
-26. noviembre → novembre
-27. diciembre → décembre
-Question Words / Misc
-1. qué → quoi / que
-2. cómo → comment
-3. cuándo → quand
 
+## Adjectives
 
+1.	grande → grand / grande
+2.	pequeño / pequeña → petit / petite
+3.	bueno / buena → bon / bonne
+4.	malo / mala → mauvais / mauvaise
+5.	bonito / bonita → joli / jolie
+6.	hermoso / hermosa → beau / belle
+7.	joven → jeune
+8.	viejo / vieja → vieux / vieille
+9.	nuevo / nueva → nouveau / nouvelle
+10.	antiguo / antigua → ancien / ancienne
+11.	fuerte → fort / forte
+12.	débil → faible
+13.	caliente → chaud / chaude
+14.	frío / fría → froid / froide
+15.	largo / larga → long / longue
+16.	corto / corta → court / courte
+17.	rápido / rápida → rapide
+18.	lento / lenta → lent / lente
+19.	limpio / limpia → propre
+20.	sucio / sucia → sale
+21.	interesante → intéressant / intéressante
+22.	aburrido / aburrida → ennuyeux / ennuyeuse
+23.	importante → important / importante
+24.	fácil → facile
+25.	difícil → difficile
+26.	posible → possible
+27.	imposible → impossible
+28.	feliz → heureux / heureuse
+29.	triste → triste
+30.	amable → gentil / gentille
+31.	malo / mala → méchant / méchante
+32.	rico / rica → riche
+33.	pobre → pauvre
+34.	contento / contenta → content / contente
+35.	verdadero / verdadera → vrai / vraie
+36.	falso / falsa → faux / fausse
+37.	próximo / próxima → prochain / prochaine
+38.	último / última → dernier / dernière
+39.	mismo / misma → même
+40.	diferente → différent / différente
+41.	gordo / gorda → gros / grosse
+42.	delgado / delgada → mince
+43.	ligero / ligera → léger / légère
+44.	pesado / pesada → lourd / lourde
+45.	ancho / ancha → large
+46.	estrecho / estrecha → étroit / étroite
+47.	redondo / redonda → rond / ronde
+48.	cuadrado / cuadrada → carré / carrée
+49.	plano / plana → plat / plate
+50.	alto / alta → haut / haute
+51.	bajo / baja → bas / basse
+52.	profundo / profunda → profond / profonde
+53.	superficial → superficiel / superficielle
+54.	claro / clara → clair / claire
+55.	oscuro / oscura → sombre
+56.	brillante → brillant / brillante
+57.	mate → mat / mate
+58.	seco / seca → sec / sèche
+59.	blando / blanda → mou / molle
+60.	duro / dura → dur / dure
 
-8. Adjectives
-
-1–20: Básicos / descripción
-	1.	grande → grand / grande
-	2.	pequeño / pequeña → petit / petite
-	3.	bueno / buena → bon / bonne
-	4.	malo / mala → mauvais / mauvaise
-	5.	bonito / bonita → joli / jolie
-	6.	hermoso / hermosa → beau / belle
-	7.	joven → jeune
-	8.	viejo / vieja → vieux / vieille
-	9.	nuevo / nueva → nouveau / nouvelle
-	10.	antiguo / antigua → ancien / ancienne
-	11.	fuerte → fort / forte
-	12.	débil → faible
-	13.	caliente → chaud / chaude
-	14.	frío / fría → froid / froide
-	15.	largo / larga → long / longue
-	16.	corto / corta → court / courte
-	17.	rápido / rápida → rapide
-	18.	lento / lenta → lent / lente
-	19.	limpio / limpia → propre
-	20.	sucio / sucia → sale
-
-
-21–40: Opinión / calidad
-	21.	interesante → intéressant / intéressante
-	22.	aburrido / aburrida → ennuyeux / ennuyeuse
-	23.	importante → important / importante
-	24.	fácil → facile
-	25.	difícil → difficile
-	26.	posible → possible
-	27.	imposible → impossible
-	28.	feliz → heureux / heureuse
-	29.	triste → triste
-	30.	amable → gentil / gentille
-	31.	malo / mala → méchant / méchante
-	32.	rico / rica → riche
-	33.	pobre → pauvre
-	34.	contento / contenta → content / contente
-	35.	verdadero / verdadera → vrai / vraie
-	36.	falso / falsa → faux / fausse
-	37.	próximo / próxima → prochain / prochaine
-	38.	último / última → dernier / dernière
-	39.	mismo / misma → même
-	40.	diferente → différent / différente
-
-
-41–60: Tamaño, forma, apariencia
-	41.	gordo / gorda → gros / grosse
-	42.	delgado / delgada → mince
-	43.	ligero / ligera → léger / légère
-	44.	pesado / pesada → lourd / lourde
-	45.	ancho / ancha → large
-	46.	estrecho / estrecha → étroit / étroite
-	47.	redondo / redonda → rond / ronde
-	48.	cuadrado / cuadrada → carré / carrée
-	49.	plano / plana → plat / plate
-	50.	alto / alta → haut / haute
-	51.	bajo / baja → bas / basse
-	52.	profundo / profunda → profond / profonde
-	53.	superficial → superficiel / superficielle
-	54.	claro / clara → clair / claire
-	55.	oscuro / oscura → sombre
-	56.	brillante → brillant / brillante
-	57.	mate → mat / mate
-	58.	seco / seca → sec / sèche
-	59.	blando / blanda → mou / molle
-	60.	duro / dura → dur / dure
-
-
-9. Adverbs
-Core Adverbs (use all the time)
-* ya → maintenant / déjà
-* también → aussi
-* incluso → même
-* solo → seulement / juste
-* además → en plus
-* muy → très
-* bien → bien
-* mal → mal
-* aquí → ici
-* allí → là / là-bas
-* ahora → maintenant
-* nunca → jamais
-* siempre → toujours
-* todavía → encore / toujours
-* casi → presque
-* quizá / quizás → peut-être
-* pronto → bientôt
-* despacio → lentement
-* ya estoy aquí → je suis déjà ici
-* también voy → moi aussi je vais
-* incluso él viene → même lui vient
-* quiero solo esto → je veux seulement ça
-* trabajo y además estudio → je travaille et en plus j’étudie
-* estoy muy bien → je vais très bien
-* hablo bien → je parle bien
-* estoy mal → je vais mal
-* vivo aquí → je vis ici
-* vive allí → il vit là-bas
-* ahora voy → maintenant je vais
-* nunca voy → je ne vais jamais
-* siempre estudio → j’étudie toujours
-* todavía estoy aquí → je suis encore ici
-* es casi imposible → c’est presque impossible
-* quizá voy → peut-être je vais
-* llego pronto → j’arrive bientôt
-* hablo despacio → je parle lentement
-Step 2: Swap drill
-* estoy muy bien → je suis très bien
-* estoy muy mal → je suis très mal
-* voy pronto → je vais bientôt
-* voy ahora → je vais maintenant
-* estudio siempre → j’étudie toujours
-* estudio nunca → je n’étudie jamais
-* estoy aquí → je suis ici
-* estoy allí → je suis là-bas
-* trabajo también → je travaille aussi
-* trabajo solo → je travaille seulement
-Step 3: Build
-* ya estoy aquí → je suis déjà ici
-* estoy muy bien → je vais très bien
-* siempre hablo despacio → je parle toujours lentement
-* quizá voy pronto → peut-être je vais bientôt
-* todavía estoy aquí → je suis encore ici
-Step 4: Speed loop
-* ya, también, incluso, solo, además → déjà, aussi, même, seulement, en plus
-* muy, bien, mal → très, bien, mal
-* aquí, allí, ahora → ici, là-bas, maintenant
-* nunca, siempre, todavía → jamais, toujours, encore
-* casi, quizá, pronto, despacio → presque, peut-être, bientôt, lentement
-
-10. Comparison
-Core Comparison / Conjunctions (use all the time)
-* como → comme / like / as
-* igual que → pareil que / just like
-* similar a → similaire à / similar to
-* tal como → tel que / just as
-* más … que → plus … que / more … than
-* menos … que → moins … que / less … than
-* tan … como → aussi … que / as … as
-* mejor que → meilleur que / better than
-* peor que → pire que / worse than
-* mayor que → plus âgé que / older than
-* menor que → plus jeune que / younger than
-como / igual que / similar a (1–80)
-* Trabajo como profesor → Je travaille comme professeur
-* Es fuerte como un toro → Il est fort comme un taureau
-* Cocina igual que su madre → Elle cuisine pareil que sa mère
-* Habla igual que su hermano → Il parle pareil que son frère
-* Su casa es similar a la mía → Sa maison est similaire à la mienne
-* Su estilo es similar a el de su amigo → Son style est similaire à celui de son ami
-* Hazlo tal como dije → Fais-le tel que j’ai dit
-* Repito tal como está escrito → Je répète tel que c’est écrit
-más / menos / tan … que (81–160)
-* Soy más alto que tú → Je suis plus grand que toi
-* Esta película es menos interesante que la otra → Ce film est moins intéressant que l’autre
-* Ella es tan inteligente como su hermana → Elle est aussi intelligente que sa sœur
-* Trabajo más que antes → Je travaille plus qu’avant
-* Es menos simpático que él → Il est moins sympathique que lui
-* Corro tan rápido como un atleta → Je cours aussi vite qu’un athlète
-* Este libro es más divertido que el otro → Ce livre est plus amusant que l’autre
-* Su casa es menos grande que la nuestra → Sa maison est moins grande que la nôtre
-mejor / peor / mayor / menor (161–240)
-* Esto es mejor que aquello → Ceci est meilleur que cela
-* Hoy estoy peor que ayer → Aujourd’hui je vais pire qu’hier
-* Mi hermano es mayor que yo → Mon frère est plus âgé que moi
-* Ella es menor que su amigo → Elle est plus jeune que son ami
-* Este coche es mejor que el viejo → Cette voiture est meilleure que l’ancienne
-* Su rendimiento es peor que el mío → Sa performance est pire que la mienne
-* Soy mayor que mi hermana → Je suis plus âgé que ma sœur
-* Ellos son menores que nosotros → Ils sont plus jeunes que nous
