@@ -17,21 +17,41 @@ Core (use all the time)
 8. [Adjectives](#adjectives)
 
 ---
-
 ## Articles
 
-Core Articles (use all the time)
-* el → le
-* la → la
-* los → les (masculin pluriel)
-* las → les (féminin pluriel)
-* un → un
-* una → une
-* unos → des (masculin)
-* unas → des (féminin)
-Quick rule
-* el / la / los / las → specific (the)
-* un / una / unos / unas → general (a / some)
+
+| Spanish | French           | Notes                    |
+|---------|------------------|--------------------------|
+| el      | le               | Masculin singulier       |
+| la      | la               | Féminin singulier        |
+| los     | les              | Masculin pluriel         |
+| las     | les              | Féminin pluriel          |
+| un      | un               | Masculin indéfini        |
+| una     | une              | Féminin indéfini         |
+| unos    | des (masculin)   | Masculin pluriel indéfini|
+| unas    | des (féminin)    | Féminin pluriel indéfini |
+
+### Quick Rules
+
+- **el / la / los / las** → specific (the)  
+  _Use for something known or previously mentioned._
+- **un / una / unos / unas** → general (a / some)  
+  _Use for something non-specific or mentioned for the first time._
+
+### Examples
+
+- **el libro** → le livre (the book)
+- **la casa** → la maison (the house)
+- **los amigos** → les amis (the friends, masc.)
+- **las mesas** → les tables (the tables, fem.)
+- **un perro** → un chien (a dog)
+- **una manzana** → une pomme (an apple)
+- **unos niños** → des enfants (some boys)
+- **unas chicas** → des filles (some girls)
+
+---
+
+
 
 ## Pronouns
 
