@@ -128,59 +128,122 @@ Quick Rules
 
 ## Core Verbs
 
-Core Verbs (use all the time)
-* ser → être (permanent / essential)
-* estar → être (temporary / location)
-* tener → avoir
-* hablar → parler
-* ir → aller
-* hacer → faire
+Below are the most essential Spanish verbs, their French equivalents, usage notes, and practical examples.
 
-ser (1–80)
-* Yo soy estudiante → Je suis étudiant
-* Tú eres amable → Tu es gentil
-* Él es médico → Il est médecin
-* Ella es alta → Elle est grande
-* Nosotros somos amigos → Nous sommes amis
-* Vosotros sois felices → Vous êtes heureux
-* Ellos son trabajadores → Ils sont travailleurs
-* Ustedes son profesores → Vous êtes professeurs
+Overview Table
 
-estar (81–160)
-* Yo estoy cansado → Je suis fatigué
-* Tú estás en casa → Tu es à la maison
-* Él está enfermo → Il est malade
-* Ella está contenta → Elle est contente
-* Nosotros estamos ocupados → Nous sommes occupés
-* Vosotros estáis en la escuela → Vous êtes à l’école
-* Ellos están en el parque → Ils sont dans le parc
-* Ustedes están listos → Vous êtes prêts
+| Spanish | French                | Usage/Notes                       |
+|---------|-----------------------|-----------------------------------|
+| ser     | être                  | permanent/essential qualities     |
+| estar   | être                  | temporary state, location         |
+| tener   | avoir                 | possession, age, sensations       |
+| hablar  | parler                | to speak                          |
+| ir      | aller                 | to go                             |
+| hacer   | faire                 | to do, to make                    |
 
-tener (161–240)
-* Yo tengo un perro → J’ai un chien
-* Tú tienes frío → Tu as froid
-* Él tiene hambre → Il a faim
-* Ella tiene sueño → Elle a sommeil
-* Nosotros tenemos tiempo → Nous avons du temps
-* Vosotros tenéis suerte → Vous avez de la chance
-* Ellos tienen casas → Ils ont des maisons
-* Ustedes tienen amigos → Vous avez des amis
+---
 
-hablar (241–320)
-* Yo hablo español → Je parle espagnol
-* Tú hablas francés → Tu parles français
-* Él habla inglés → Il parle anglais
-* Ella habla mucho → Elle parle beaucoup
-* Nosotros hablamos con ellos → Nous parlons avec eux
-* Vosotros habláis rápido → Vous parlez vite
-* Ellos hablan de política → Ils parlent de politique
-* Ustedes hablan todos los días → Vous parlez tous les jours
+ 1. **ser** (être – permanent/essential)
 
-Quick rules
-* ser → permanent, essential qualities
-* estar → temporary state, location
-* tener → possession, age, sensations
-* hablar → action of speaking
+Used for identity, profession, characteristics, origin, time, etc.
+
+Examples
+- Yo soy estudiante → Je suis étudiant
+- Tú eres amable → Tu es gentil
+- Él es médico → Il est médecin
+- Ella es alta → Elle est grande
+- Nosotros somos amigos → Nous sommes amis
+- Vosotros sois felices → Vous êtes heureux
+- Ellos son trabajadores → Ils sont travailleurs
+- Ustedes son professeurs → Vous êtes professeurs
+
+
+2. **estar** (être – temporary/location)
+
+Used for emotions, conditions, locations, ongoing actions.
+
+Examples
+- Yo estoy cansado → Je suis fatigué
+- Tú estás en casa → Tu es à la maison
+- Él está enfermo → Il est malade
+- Ella está contenta → Elle est contente
+- Nosotros estamos occupados → Nous sommes occupés
+- Vosotros estáis en la escuela → Vous êtes à l’école
+- Ellos están en el parque → Ils sont dans le parc
+- Ustedes están listos → Vous êtes prêts
+
+
+3. **tener** (avoir)
+
+Used for possession, age, physical sensations, obligations.
+
+Examples
+- Yo tengo un perro → J’ai un chien
+- Tú tienes frío → Tu as froid
+- Él tiene hambre → Il a faim
+- Ella tiene sueño → Elle a sommeil
+- Nosotros tenemos tiempo → Nous avons du temps
+- Vosotros tenéis suerte → Vous avez de la chance
+- Ellos tienen casas → Ils ont des maisons
+- Ustedes tienen amigos → Vous avez des amis
+
+
+4. **hablar** (parler)
+
+Used for the action of speaking.
+
+Examples
+- Yo hablo español → Je parle espagnol
+- Tú hablas francés → Tu parles français
+- Él habla inglés → Il parle anglais
+- Ella habla mucho → Elle parle beaucoup
+- Nosotros hablamos con ellos → Nous parlons avec eux
+- Vosotros habláis rápido → Vous parlez vite
+- Ellos hablan de política → Ils parlent de politique
+- Ustedes hablan todos los días → Vous parlez tous les jours
+
+
+5. **ir** (aller)
+
+Used for movement, direction, going somewhere.
+
+Examples
+- Yo voy al parque → Je vais au parc
+- Tú vas al cine → Tu vas au cinéma
+- Él va al trabajo → Il va au travail
+- Ella va a la tienda → Elle va au magasin
+- Nosotros vamos juntos → Nous allons ensemble
+- Vosotros vais a la escuela → Vous allez à l’école
+- Ellos van a casa → Ils vont à la maison
+- Ustedes van de viaje → Vous allez en voyage
+
+
+6. **hacer** (faire)
+
+Used for actions, creation, tasks.
+
+Examples
+- Yo hago ejercicio → Je fais de l’exercice
+- Tú haces la tarea → Tu fais les devoirs
+- Él hace un pastel → Il fait un gâteau
+- Ella hace deporte → Elle fait du sport
+- Nosotros hacemos planes → Nous faisons des plans
+- Vosotros hacéis preguntas → Vous posez des questions
+- Ellos hacen ruido → Ils font du bruit
+- Ustedes hacen el trabajo → Vous faites le travail
+
+
+Quick Reference
+
+- **ser** → permanent/essential qualities (identity, profession, origin)
+- **estar** → temporary state, location, emotions, ongoing actions
+- **tener** → possession, age, sensations, obligations
+- **hablar** → action of speaking
+- **ir** → movement, direction, going somewhere
+- **hacer** → action, creation, tasks
+
+---
+
 
 ## Conjugation
 
