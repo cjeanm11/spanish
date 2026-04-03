@@ -14,6 +14,7 @@ Core (use all the time)
 5. [Conjunctions](#conjunctions)
 6. [Prepositions](#prepositions)
 7. [Vocabulary](#vocabulary)
+8. [Adjectives](#adjectives)
 
 ---
 
