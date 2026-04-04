@@ -743,7 +743,10 @@ Quick Rules
 
 </details>
 
-## Conjunctions
+---
+
+<details>
+<summary><h2>Conjunctions</h2></summary>
 
 Conjunctions are words that connect phrases, clauses, or sentences. Below are the most common Spanish conjunctions, their French equivalents, and practical examples.
 
@@ -821,6 +824,14 @@ Quick Reference
 - **si**: if (condition)
 - **cuando**: when
 - **entonces / así que**: then / so
+
+
+</details>
+
+---
+
+<details>
+<summary><h2>Prepositions</h2></summary>
 
 ## Prepositions
 
@@ -914,7 +925,13 @@ Quick Reference
 - **a, de, en, con, sin, para, por, sobre, entre, hacia, desde, hasta, contra**: Most common prepositions—learn these first!
 - Use examples to see how prepositions change meaning with context.
 
+
+</details>
+
 ---
+
+<details>
+<summary><h2>Vocabulary</h2></summary>
 
 ## Vocabulary
 
@@ -1104,9 +1121,12 @@ hoy (aujourd’hui), mañana (demain), ayer (hier), día (jour), noche (nuit), s
 Question Words
 qué (quoi/que), cómo (comment), cuándo (quand), dónde (où), quién (qui), cuál (lequel), cuánto (combien), por qué (pourquoi)
 
+</details>
+
 ---
 
-## Adjectives
+<details>
+<summary><h2>Adjectives</h2></summary>
 
 Adjectives describe qualities, states, or characteristics. Below are high-frequency Spanish adjectives with their French equivalents, grouped by theme.
 
@@ -1288,9 +1308,12 @@ common
 | pesado       | lourd                 |
 | ligero       | léger                 |
 
+</details>
+
 ---
 
-## Adverbes
+<details>
+<summary><h2>Adverbes</h2></summary>
 
 Adverbs
 
@@ -1375,5 +1398,8 @@ Adverbs
 | inmediatamente| immédiatement       |
 | próximamente | prochainement        |
 | hoy por hoy  | aujourd’hui          |
+
+
+</details>
 
 ---
