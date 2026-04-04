@@ -55,7 +55,8 @@ Examples
 
 
 
-## Pronouns
+<details>
+<summary><h2>Pronouns</h2></summary>
 
 Subject Pronouns
 
@@ -125,10 +126,12 @@ Quick Rules
 - **Object pronouns**: who receives the action  
 - **Reflexive pronouns**: action done to oneself
 
+</details>
+
 ---
 
-
-## Core Verbs
+<details>
+<summary><h2>Core Verbs</h2></summary>
 
 Below are the most essential Spanish verbs, their French equivalents, usage notes, and practical examples.
 
@@ -737,6 +740,8 @@ Quick Rules
 | invertir     | investir         | invierto  | inviertes | invierte          |
 | prestar      | prêter           | presto    | prestas   | presta            |
 | deber        | devoir           | debo      | debes     | debe              |
+
+</details>
 
 ## Conjunctions
 
