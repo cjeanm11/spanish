@@ -10,11 +10,11 @@ Core (use all the time)
 1. [Articles](#articles)
 2. [Pronouns](#pronouns)
 3. [Core Verbs](#core-verbs)
-4. [Conjugation](#conjugation)
 5. [Conjunctions](#conjunctions)
 6. [Prepositions](#prepositions)
 7. [Vocabulary](#vocabulary)
 8. [Adjectives](#adjectives)
+8. [Adverbes](#adverbes)
 
 ---
 ## Articles
@@ -141,7 +141,6 @@ Overview Table
 | ir      | aller                 | to go                             |
 | hacer   | faire                 | to do, to make                    |
 
----
 
  1. **ser** (être – permanent/essential)
 
@@ -242,90 +241,500 @@ Quick Reference
 - **ir** → movement, direction, going somewhere
 - **hacer** → action, creation, tasks
 
----
-
-
-## Conjugation
-
-Regular Present Tense Endings
-
-| Person         | -ar (hablar) | -er (comer) | -ir (vivir) |
-|----------------|--------------|-------------|-------------|
-| yo             | hablo        | como        | vivo        |
-| tú             | hablas       | comes       | vives       |
-| él/ella/usted  | habla        | come        | vive        |
-| nosotros/as    | hablamos     | comemos     | vivimos     |
-| vosotros/as    | habláis      | coméis      | vivís       |
-| ellos/ellas/ustedes | hablan  | comen       | viven       |
-
-Core Irregular Verbs
-
-**ser** (to be – permanent/essential)
-- Yo soy estudiante → Je suis étudiant
-- Tú eres amable → Tu es gentil
-- Él es médico → Il est médecin
-- Ella es alta → Elle est grande
-- Nosotros somos amigos → Nous sommes amis
-- Vosotros sois felices → Vous êtes heureux
-- Ellos son trabajadores → Ils sont travailleurs
-- Ustedes son profesores → Vous êtes professeurs
-
-**estar** (to be – temporary/location)
-- Yo estoy cansado → Je suis fatigué
-- Tú estás en casa → Tu es à la maison
-- Él está enfermo → Il est malade
-- Ella está contenta → Elle est contente
-- Nosotros estamos ocupados → Nous sommes occupés
-- Vosotros estáis en la escuela → Vous êtes à l’école
-- Ellos están en el parque → Ils sont dans le parc
-- Ustedes están listos → Vous êtes prêts
-
-**tener** (to have)
-- Yo tengo un perro → J’ai un chien
-- Tú tienes frío → Tu as froid
-- Él tiene hambre → Il a faim
-- Ella tiene sueño → Elle a sommeil
-- Nosotros tenemos tiempo → Nous avons du temps
-- Vosotros tenéis suerte → Vous avez de la chance
-- Ellos tienen casas → Ils ont des maisons
-- Ustedes tienen amigos → Vous avez des amis
-
-**ir** (to go)
-- Yo voy al parque → Je vais au parc
-- Tú vas al cine → Tu vas au cinéma
-- Él va al trabajo → Il va au travail
-- Ella va a la tienda → Elle va au magasin
-- Nosotros vamos juntos → Nous allons ensemble
-- Vosotros vais a la escuela → Vous allez à l’école
-- Ellos van a casa → Ils vont à la maison
-- Ustedes van de viaje → Vous allez en voyage
-
-**hacer** (to do/make)
-- Yo hago ejercicio → Je fais de l’exercice
-- Tú haces la tarea → Tu fais les devoirs
-- Él hace un pastel → Il fait un gâteau
-- Ella hace deporte → Elle fait du sport
-- Nosotros hacemos planes → Nous faisons des plans
-- Vosotros hacéis preguntas → Vous posez des questions
-- Ellos hacen ruido → Ils font du bruit
-- Ustedes hacen el trabajo → Vous faites le travail
-
-**hablar** (to speak – regular -ar)
-- Yo hablo español → Je parle espagnol
-- Tú hablas francés → Tu parles français
-- Él habla inglés → Il parle anglais
-- Ella habla mucho → Elle parle beaucoup
-- Nosotros hablamos con ellos → Nous parlons avec eux
-- Vosotros habláis rápido → Vous parlez vite
-- Ellos hablan de política → Ils parlent de politique
-- Ustedes hablan todos los días → Vous parlez tous les jours
-
 Quick Rules
 
 - **-ar, -er, -ir**: Regular verbs follow the endings above.
 - **ser, estar, tener, ir, hacer**: Irregular, memorize their forms.
 - Use examples to see conjugation in context.
 
+
+| Spanish   | French         | yo (je)   | tú (tu)   | él/ella (il/elle) |
+|-----------|---------------|-----------|-----------|-------------------|
+| ser       | être          | soy       | eres      | es                |
+| estar     | être (état)   | estoy     | estás     | está              |
+| tener     | avoir         | tengo     | tienes    | tiene             |
+| hacer     | faire         | hago      | haces     | hace              |
+| poder     | pouvoir       | puedo     | puedes    | puede             |
+| decir     | dire          | digo      | dices     | dice              |
+| ir        | aller         | voy       | vas       | va                |
+| ver       | voir          | veo       | ves       | ve                |
+| dar       | donner        | doy       | das       | da                |
+| saber     | savoir        | sé        | sabes     | sabe              |
+| querer    | vouloir       | quiero    | quieres   | quiere            |
+| llegar    | arriver       | llego     | llegas    | llega             |
+| pasar     | passer        | paso      | pasas     | pasa              |
+| deber     | devoir        | debo      | debes     | debe              |
+| poner     | mettre        | pongo     | pones     | pone              |
+| parecer   | sembler       | parezco   | pareces   | parece            |
+| quedar    | rester        | quedo     | quedas    | queda             |
+| creer     | croire        | creo      | crees     | cree              |
+| hablar    | parler        | hablo     | hablas    | habla             |
+| llevar    | porter        | llevo     | llevas    | lleva             |
+| dejar     | laisser       | dejo      | dejas     | deja              |
+| seguir    | suivre        | sigo      | sigues    | sigue             |
+| encontrar | trouver       | encuentro | encuentras| encuentra         |
+| llamar    | appeler       | llamo     | llamas    | llama             |
+| venir     | venir         | vengo     | vienes    | viene             |
+| pensar    | penser        | pienso    | piensas   | piensa            |
+| salir     | sortir        | salgo     | sales     | sale              |
+| volver    | revenir       | vuelvo    | vuelves   | vuelve            |
+| tomar     | prendre       | tomo      | tomas     | toma              |
+| conocer   | connaître     | conozco   | conoces   | conoce            |
+| vivir     | vivre         | vivo      | vives     | vive              |
+| sentir    | sentir        | siento    | sientes   | siente            |
+| tratar    | traiter       | trato     | tratas    | trata             |
+| mirar     | regarder      | miro      | miras     | mira              |
+| contar    | compter/raconter| cuento | cuentas   | cuenta            |
+| empezar   | commencer     | empiezo   | empiezas  | empieza           |
+| esperar   | attendre/espérer| espero | esperas   | espera            |
+| buscar    | chercher      | busco     | buscas    | busca             |
+| existir   | exister       | existo    | existes   | existe            |
+| entrar    | entrer        | entro     | entras    | entra             |
+| trabajar  | travailler    | trabajo   | trabajas  | trabaja           |
+| escribir  | écrire        | escribo   | escribes  | escribe           |
+| perder    | perdre        | pierdo    | pierdes   | pierde            |
+| producir  | produire      | produzco  | produces  | produce           |
+| ocurrir   | arriver (événement)| ocurro| ocurres | ocurre            |
+| entender  | comprendre    | entiendo  | entiendes | entiende          |
+| pedir     | demander      | pido      | pides     | pide              |
+| recibir   | recevoir      | recibo    | recibes   | recibe            |
+| recordar  | se rappeler   | recuerdo  | recuerdas | recuerda          |
+| terminar    | finir         | termino   | terminas  | termina           |
+| permitir    | permettre     | permito   | permites  | permite           |
+| aparecer    | apparaître    | aparezco  | apareces  | aparece           |
+| conseguir   | obtenir       | consigo   | consigues | consigue          |
+| comenzar    | commencer     | comienzo  | comienzas | comienza          |
+| servir      | servir        | sirvo     | sirves    | sirve             |
+| sacar       | sortir        | saco      | sacas     | saca              |
+| necesitar   | avoir besoin  | necesito  | necesitas | necesita          |
+| mantener    | maintenir     | mantengo  | mantienes | mantiene          |
+| resultar    | résulter      | resulto   | resultas  | resulta           |
+| leer        | lire          | leo       | lees      | lee               |
+| caer        | tomber        | caigo     | caes      | cae               |
+| cambiar     | changer       | cambio    | cambias   | cambia            |
+| presentar   | présenter     | presento  | presentas | presenta          |
+| crear       | créer         | creo      | creas     | crea              |
+| abrir       | ouvrir        | abro      | abres     | abre              |
+| considerar  | considérer    | considero | consideras| considera         |
+| oír         | entendre      | oigo      | oyes      | oye               |
+| acabar      | finir         | acabo     | acabas    | acaba             |
+| convertir   | convertir     | convierto | conviertes| convierte         |
+| ganar       | gagner        | gano      | ganas     | gana              |
+| formar      | former        | formo     | formas    | forma             |
+| traer       | apporter      | traigo    | traes     | trae              |
+| partir      | partir        | parto     | partes    | parte             |
+| morir       | mourir        | muero     | mueres    | muere             |
+| aceptar     | accepter      | acepto    | aceptas   | acepta            |
+| realizar    | réaliser      | realizo   | realizas  | realiza           |
+| suponer     | supposer      | supongo   | supones   | supone            |
+| comprender  | comprendre    | comprendo | comprendes| comprende         |
+| lograr      | réussir       | logro     | logras    | logra             |
+| explicar    | expliquer     | explico   | explicas  | explica           |
+| preguntar   | demander      | pregunto  | preguntas | pregunta          |
+| tocar       | toucher/jouer | toco      | tocas     | toca              |
+| reconocer   | reconnaître   | reconozco | reconoces | reconoce          |
+| estudiar    | étudier       | estudio   | estudias  | estudia           |
+| alcanzar    | atteindre     | alcanzo   | alcanzas  | alcanza           |
+| nacer       | naître        | nazco     | naces     | nace              |
+| dirigir     | diriger       | dirijo    | diriges   | dirige            |
+| correr      | courir        | corro     | corres    | corre             |
+| utilizar    | utiliser      | utilizo   | utilizas  | utiliza           |
+| pagar       | payer         | pago      | pagas     | paga              |
+| ayudar      | aider         | ayudo     | ayudas    | ayuda             |
+| gustar      | plaire/aimer  | gusto     | gustas    | gusta             |
+| jugar       | jouer         | juego     | juegas    | juega             |
+| escuchar    | écouter       | escucho   | escuchas  | escucha           |
+| cumplir     | accomplir     | cumplo    | cumples   | cumple            |
+| ofrecer     | offrir        | ofrezco   | ofreces   | ofrece            |
+| descubrir   | découvrir     | descubro  | descubres | descubre          |
+| intentar    | essayer        | intento   | intentas  | intenta           |
+| usar        | utiliser       | uso       | usas      | usa               |
+| decidir     | décider        | decido    | decides   | decide            |
+| repetir     | répéter        | repito    | repites   | repite            |
+| olvidar     | oublier        | olvido    | olvidas   | olvida            |
+| levantar    | lever          | levanto   | levantas  | levanta           |
+| cerrar      | fermer         | cierro    | cierras   | cierra            |
+| elegir      | choisir élire  | elijo     | eliges    | elige             |
+| preparar    | préparer       | preparo   | preparas  | prepara           |
+| intentar    | essayer        | intento   | intentas  | intenta           |
+| romper      | casser         | rompo     | rompes    | rompe             |
+| enviar      | envoyer        | envío     | envías    | envía             |
+| recibir     | recevoir       | recibo    | recibes   | recibe            |
+| subir       | monter         | subo      | subes     | sube              |
+| bajar       | descendre      | bajo      | bajas     | baja              |
+| cambiar     | changer        | cambio    | cambias   | cambia            |
+| limpiar     | nettoyer       | limpio    | limpias   | limpia            |
+| vender      | vendre         | vendo     | vendes    | vende             |
+| añadir      | ajouter        | añado     | añades    | añade             |
+| mostrar     | montrer        | muestro   | muestras  | muestra           |
+| buscar      | chercher       | busco     | buscas    | busca             |
+| ganar       | gagner         | gano      | ganas     | gana              |
+| perder      | perdre         | pierdo    | pierdes   | pierde            |
+| dormir      | dormir         | duermo    | duermes   | duerme            |
+| despertar   | réveiller      | despierto | despiertas| despierta         |
+| comer       | manger         | como      | comes     | come              |
+| beber       | boire          | bebo      | bebes     | bebe              |
+| conducir    | conduire       | conduzco  | conduces  | conduce           |
+| traducir    | traduire       | traduzco  | traduces  | traduce           |
+| crecer      | grandir        | crezco    | creces    | crece             |
+| caber       | tenir (contenu)| quepo     | cabes     | cabe              |
+| costar      | coûter         | cuesto    | cuestas   | cuesta            |
+| doler       | faire mal      | duelo     | dueles    | duele             |
+| encender    | allumer        | enciendo  | enciendes | enciende          |
+| apagar      | éteindre       | apago     | apagas    | apaga             |
+| volar       | voler (air)    | vuelo     | vuelas    | vuela             |
+| reír        | rire           | río       | ríes      | ríe               |
+| sonreír     | sourire        | sonrío    | sonríes   | sonríe            |
+| llorar      | pleurer        | lloro     | lloras    | llora             |
+| gritar      | crier          | grito     | gritas    | grita             |
+| saltar      | sauter         | salto     | saltas    | salta             |
+| bailar      | danser         | bailo     | bailas    | baila             |
+| besar       | embrasser      | beso      | besas     | besa              |
+| abrazar     | étreindre      | abrazo    | abrazas   | abraza            |
+| casarse     | se marier      | me caso   | te casas  | se casa           |
+| divorciarse | divorcer       | me divorcio| te divorcias| se divorcia     |
+| peinar      | coiffer        | peino     | peinas    | peina             |
+| afeitar     | raser          | afeito    | afeitas   | afeita            |
+| maquillar   | maquiller      | maquillo  | maquillas | maquilla          |
+| lavar        | laver            | lavo      | lavas     | lava              |
+| secar        | sécher           | seco      | secas     | seca              |
+| planchar     | repasser         | plancho   | planchas  | plancha           |
+| coser        | coudre           | coso      | coses     | cose              |
+| cortar       | couper           | corto     | cortas    | corta             |
+| pegar        | coller           | pego      | pegas     | pega              |
+| pintar       | peindre          | pinto     | pintas    | pinta             |
+| dibujar      | dessiner         | dibujo    | dibujas   | dibuja            |
+| construir    | construire       | construyo | construyes| construye         |
+| destruir     | détruire         | destruyo  | destruyes | destruye          |
+| arreglar     | réparer          | arreglo   | arreglas  | arregla           |
+| romper       | casser           | rompo     | rompes    | rompe             |
+| unir         | unir             | uno       | unes      | une               |
+| separar      | séparer          | separo    | separas   | separa            |
+| mezclar      | mélanger         | mezclo    | mezclas   | mezcla            |
+| dividir      | diviser          | divido    | divides   | divide            |
+| sumar        | additionner      | sumo      | sumas     | suma              |
+| restar       | soustraire       | resto     | restas    | resta             |
+| multiplicar  | multiplier       | multiplico| multiplicas| multiplica        |
+| dividir      | diviser          | divido    | divides   | divide            |
+| contar       | compter          | cuento    | cuentas   | cuenta            |
+| calcular     | calculer         | calculo   | calculas  | calcula           |
+| pesar        | peser            | peso      | pesas     | pesa              |
+| medir        | mesurer          | mido      | mides     | mide              |
+| comparar     | comparer         | comparo   | comparas  | compara           |
+| elegir       | choisir          | elijo     | eliges    | elige             |
+| preferir     | préférer         | prefiero  | prefieres | prefiere          |
+| odiar        | détester         | odio      | odias     | odia              |
+| amar         | aimer            | amo       | amas      | ama               |
+| gustar       | plaire           | gusto     | gustas    | gusta             |
+| encantar     | adorer           | encanto   | encantas  | encanta           |
+| interesar    | intéresser       | intereso  | interesas | interesa          |
+| aburrir      | ennuyer          | aburro    | aburres   | aburre            |
+| molestar     | déranger         | molesto   | molestas  | molesta           |
+| preocupar    | inquiéter        | preocupo  | preocupas | preocupa          |
+| sorprender   | surprendre       | sorprendo | sorprendes| sorprende         |
+| asustar      | effrayer         | asusto    | asustas   | asusta            |
+| tranquilizar | rassurer         | tranquilizo| tranquilizas| tranquiliza     |
+| calmar       | calmer           | calmo     | calmas    | calma             |
+| animar       | encourager       | animo     | animas    | anima             |
+| felicitar    | féliciter        | felicito  | felicitas | felicita          |
+| agradecer    | remercier        | agradezco | agradeces | agradece          |
+| disculpar    | excuser          | disculpo  | disculpas | disculpa          |
+| perdonar     | pardonner        | perdono   | perdonas  | perdona           |
+| culpar       | accuser          | culpo     | culpas    | culpa             |
+| acusar       | accuser          | acuso     | acusas    | acusa             |
+| defender     | défendre         | defiendo  | defiendes | defiende          |
+| atacar       | attaquer         | ataco     | atacas    | ataca             |
+| proteger     | protéger         | protejo   | proteges  | protege           |
+| salvar       | sauver           | salvo     | salvas    | salva             |
+| rescatar     | secourir         | rescato   | rescatas  | rescata           |
+| ayudar       | aider            | ayudo     | ayudas    | ayuda             |
+| servir       | servir           | sirvo     | sirves    | sirve             |
+| obedecer     | obéir            | obedezco  | obedeces  | obedece           |
+| mandar       | commander/envoyer| mando     | mandas    | manda             |
+| ordenar      | ordonner         | ordeno    | ordenas   | ordena            |
+| prohibir     | interdire        | prohíbo   | prohíbes  | prohíbe           |
+| permitir     | permettre        | permito   | permites  | permite           |
+| consentir    | consentir        | consiento | consientes| consiente         |
+| sugerir      | suggérer         | sugiero   | sugieres  | sugiere           |
+| recomendar   | recommander      | recomiendo| recomiendas| recomienda        |
+| aconsejar    | conseiller       | aconsejo  | aconsejas | aconseja          |
+| advertir     | avertir          | advierto  | adviertes | advierte          |
+| informar     | informer         | informo   | informas  | informa           |
+| comunicar    | communiquer      | comunico  | comunicas | comunica          |
+| anunciar     | annoncer         | anuncio   | anuncias  | anuncia           |
+| declarar     | déclarer         | declaro   | declaras  | declara           |
+| explicar     | expliquer        | explico   | explicas  | explica           |
+| describir    | décrire          | describo  | describes | describe          |
+| contar       | raconter         | cuento    | cuentas   | cuenta            |
+| narrar       | narrer           | narro     | narras    | narra             |
+| relatar      | relater          | relato    | relatas   | relata            |
+| preguntar    | demander         | pregunto  | preguntas | pregunta          |
+| responder    | répondre         | respondo  | respondes | responde          |
+| contestar    | répondre         | contesto  | contestas | contesta          |
+| afirmar      | affirmer         | afirmo    | afirmas   | afirma            |
+| negar        | nier             | niego     | niegas    | niega             |
+| dudar        | douter           | dudo      | dudas     | duda              |
+| suponer      | supposer         | supongo   | supones   | supone            |
+| imaginar     | imaginer         | imagino   | imaginas  | imagina           |
+| pensar       | penser           | pienso    | piensas   | piensa            |
+| creer        | croire           | creo      | crees     | cree              |
+| opinar       | donner son avis  | opino     | opinas    | opina             |
+| recordar     | se rappeler      | recuerdo  | recuerdas | recuerda          |
+| olvidar      | oublier          | olvido    | olvidas   | olvida            |
+| aprender     | apprendre        | aprendo   | aprendes  | aprende           |
+| enseñar      | enseigner        | enseño    | enseñas   | enseña            |
+| estudiar     | étudier          | estudio   | estudias  | estudia           |
+| practicar    | pratiquer        | practico  | practicas | practica          |
+| entrenar     | entraîner        | entreno   | entrenas  | entrena           |
+| investigar   | enquêter         | investigo | investigas| investiga         |
+| analizar     | analyser         | analizo   | analizas  | analiza           |
+| observar     | observer         | observo   | observas  | observa           |
+| examinar     | examiner         | examino   | examinas  | examina           |
+| revisar      | réviser          | reviso    | revisas   | revisa            |
+| corregir     | corriger         | corrijo   | corriges  | corrige           |
+| comprobar    | vérifier         | compruebo | compruebas| comprueba         |
+| investigar   | enquêter         | investigo | investigas| investiga         |
+| analizar     | analyser         | analizo   | analizas  | analiza           |
+| observar     | observer         | observo   | observas  | observa           |
+| examinar     | examiner         | examino   | examinas  | examina           |
+| revisar      | réviser          | reviso    | revisas   | revisa            |
+| corregir     | corriger         | corrijo   | corriges  | corrige           |
+| comprobar    | vérifier         | compruebo | compruebas| comprueba         |
+| calcular     | calculer         | calculo   | calculas  | calcula           |
+| sumar        | additionner      | sumo      | sumas     | suma              |
+| restar       | soustraire       | resto     | restas    | resta             |
+| multiplicar  | multiplier       | multiplico| multiplicas| multiplica        |
+| dividir      | diviser          | divido    | divides   | divide            |
+| organizar    | organiser        | organizo  | organizas | organiza          |
+| planear      | planifier        | planeo    | planeas   | planea            |
+| preparar     | préparer         | preparo   | preparas  | prepara           |
+| ordenar      | ordonner         | ordeno    | ordenas   | ordena            |
+| limpiar      | nettoyer         | limpio    | limpias   | limpia            |
+| ensuciar     | salir            | ensucio   | ensucias  | ensucia           |
+| llenar       | remplir          | lleno     | llenas    | llena             |
+| vaciar       | vider            | vacío     | vacías    | vacía             |
+| abrir        | ouvrir           | abro      | abres     | abre              |
+| cerrar       | fermer           | cierro    | cierras   | cierra            |
+| encender     | allumer          | enciendo  | enciendes | enciende          |
+| apagar       | éteindre         | apago     | apagas    | apaga             |
+| subir        | monter           | subo      | subes     | sube              |
+| bajar        | descendre        | bajo      | bajas     | baja              |
+| entrar       | entrer           | entro     | entras    | entra             |
+| salir        | sortir           | salgo     | sales     | sale              |
+| llegar       | arriver          | llego     | llegas    | llega             |
+| ir           | aller            | voy       | vas       | va                |
+| venir        | venir            | vengo     | vienes    | viene             |
+| volver       | revenir          | vuelvo    | vuelves   | vuelve            |
+| regresar     | retourner        | regreso   | regresas  | regresa           |
+| partir       | partir           | parto     | partes    | parte             |
+| quedarse     | rester           | me quedo  | te quedas | se queda          |
+| pasar        | passer           | paso      | pasas     | pasa              |
+| cruzar       | traverser        | cruzo     | cruzas    | cruza             |
+| avanzar      | avancer          | avanzo    | avanzas   | avanza            |
+| retroceder   | reculer          | retrocedo | retrocedes| retrocede         |
+| mover        | bouger           | muevo     | mueves    | mueve             |
+| girar        | tourner          | giro      | giras     | gira              |
+| volar        | voler (air)      | vuelo     | vuelas    | vuela             |
+| conducir     | conduire         | conduzco  | conduces  | conduce           |
+| viajar       | voyager          | viajo     | viajas    | viaja             |
+| caminar      | marcher          | camino    | caminas   | camina            |
+| correr       | courir           | corro     | corres    | corre             |
+| saltar       | sauter           | salto     | saltas    | salta             |
+| nadar        | nager            | nado      | nadas     | nada              |
+| esquiar      | skier            | esquío    | esquías   | esquía            |
+| patinar      | patiner          | patino    | patinas   | patina            |
+| pescar       | pêcher           | pesco     | pescas    | pesca             |
+| cazar        | chasser          | cazo      | cazas     | caza              |
+| montar       | monter           | monto     | montas    | monta             |
+| escalar      | escalader        | escalo    | escalas   | escala            |
+| saltar       | sauter           | salto     | saltas    | salta             |
+| lanzar       | lancer           | lanzo     | lanzas    | lanza             |
+| atrapar      | attraper         | atrapo    | atrapas   | atrapa            |
+| golpear      | frapper          | golpeo    | golpeas   | golpea            |
+| patear       | donner un coup de pied | pateo | pateas   | patea             |
+| empujar      | pousser          | empujo    | empujas   | empuja            |
+| tirar        | tirer/jeter      | tiro      | tiras     | tira              |
+| levantar     | lever            | levanto   | levantas  | levanta           |
+| bajar        | baisser          | bajo      | bajas     | baja              |
+| cargar       | charger          | cargo     | cargas    | carga             |
+| descargar    | décharger        | descargo  | descargas | descarga          |
+| llenar       | remplir          | lleno     | llenas    | llena             |
+| vaciar       | vider            | vacío     | vacías    | vacía             |
+| poner        | mettre/poser     | pongo     | pones     | pone              |
+| quitar       | enlever          | quito     | quitas    | quita             |
+| agarrar      | saisir           | agarro    | agarras   | agarra            |
+| soltar       | lâcher           | suelto    | sueltas   | suelta            |
+| sujetar      | tenir/soutenir   | sujeto    | sujetas   | sujeta            |
+| apoyar       | appuyer          | apoyo     | apoyas    | apoya             |
+| doblar       | plier/tourner    | doblo     | doblas    | dobla             |
+| estirar      | étirer           | estiro    | estiras   | estira            |
+| encoger      | rétrécir         | encojo    | encoges   | encoge            |
+| romper       | casser           | rompo     | rompes    | rompe             |
+| arreglar     | réparer          | arreglo   | arreglas  | arregla           |
+| construir    | construire       | construyo | construyes| construye         |
+| destruir     | détruire         | destruyo  | destruyes | destruye          |
+| fabricar     | fabriquer        | fabrico   | fabricas  | fabrica           |
+| crear        | créer            | creo      | creas     | crea              |
+| inventar     | inventer         | invento   | inventas  | inventa           |
+| diseñar      | concevoir        | diseño    | diseñas   | diseña            |
+| pintar       | peindre          | pinto     | pintas    | pinta             |
+| dibujar      | dessiner         | dibujo    | dibujas   | dibuja            |
+| fotografiar  | photographier    | fotografío| fotografías| fotografía        |
+| grabar       | enregistrer      | grabo     | grabas    | graba             |
+| filmar       | filmer           | filmo     | filmas    | filma             |
+| escribir     | écrire           | escribo   | escribes  | escribe           |
+| leer         | lire             | leo       | lees      | lee               |
+| contar       | compter/raconter | cuento    | cuentas   | cuenta            |
+| sumar        | additionner      | sumo      | sumas     | suma              |
+| restar       | soustraire       | resto     | restas    | resta             |
+| multiplicar  | multiplier       | multiplico| multiplicas| multiplica        |
+| dividir      | diviser          | divido    | divides   | divide            |
+| calcular     | calculer         | calculo   | calculas  | calcula           |
+| resolver     | résoudre         | resuelvo  | resuelves | resuelve          |
+| solucionar   | solutionner      | soluciono | solucionas| soluciona         |
+| arreglar     | réparer          | arreglo   | arreglas  | arregla           |
+| mejorar      | améliorer        | mejoro    | mejoras   | mejora            |
+| empeorar     | empirer          | empeoro   | empeoras  | empeora           |
+| cambiar      | changer          | cambio    | cambias   | cambia            |
+| transformar  | transformer      | transformo| transformas| transforma        |
+| convertir    | convertir        | convierto | conviertes| convierte         |
+| adaptar      | adapter          | adapto    | adaptas   | adapta            |
+| ajustar      | ajuster          | ajusto    | ajustas   | ajusta            |
+| modificar    | modifier         | modifico  | modificas | modifica          |
+| variar       | varier           | varío     | varías    | varía             |
+| alternar     | alterner         | alterno   | alternas  | alterna           |
+| sustituir    | substituer       | sustituyo | sustituyes| sustituye         |
+| reemplazar   | remplacer        | reemplazo | reemplazas| reemplaza         |
+| intercambiar | échanger         | intercambio| intercambias| intercambia     |
+| mezclar      | mélanger         | mezclo    | mezclas   | mezcla            |
+| combinar     | combiner         | combino   | combinas  | combina           |
+| unir         | unir             | uno       | unes      | une               |
+| juntar       | joindre          | junto     | juntas    | junta             |
+| separar      | séparer          | separo    | separas   | separa            |
+| dividir      | diviser          | divido    | divides   | divide            |
+| repartir     | répartir         | reparto   | repartes  | reparte           |
+| distribuir   | distribuer       | distribuyo| distribuyes| distribuye        |
+| compartir    | partager         | comparto  | compartes | comparte          |
+| dar          | donner           | doy       | das       | da                |
+| recibir      | recevoir         | recibo    | recibes   | recibe            |
+| enviar       | envoyer          | envío     | envías    | envía             |
+| traer        | apporter         | traigo    | traes     | trae              |
+| llevar       | porter           | llevo     | llevas    | lleva             |
+| traer        | apporter         | traigo    | traes     | trae              |
+| devolver     | rendre           | devuelvo  | devuelves | devuelve          |
+| entregar     | remettre         | entrego   | entregas  | entrega           |
+| recoger      | ramasser         | recojo    | recoges   | recoge            |
+| guardar      | garder           | guardo    | guardas   | guarda            |
+| almacenar    | stocker          | almaceno  | almacenas | almacena          |
+| conservar    | conserver        | conservo  | conservas | conserva          |
+| proteger     | protéger         | protejo   | proteges  | protege           |
+| cuidar       | soigner/garder   | cuido     | cuidas    | cuida             |
+| vigilar      | surveiller       | vigilo    | vigilas   | vigila            |
+| observar     | observer         | observo   | observas  | observa           |
+| mirar        | regarder         | miro      | miras     | mira              |
+| ver          | voir             | veo       | ves       | ve                |
+| contemplar   | contempler       | contemplo | contemplas| contempla         |
+| notar        | remarquer        | noto      | notas     | nota              |
+| advertir     | avertir          | advierto  | adviertes | advierte          |
+| percibir     | percevoir        | percibo   | percibes  | percibe           |
+| detectar     | détecter         | detecto   | detectas  | detecta           |
+| identificar  | identifier       | identifico| identificas| identifica        |
+| buscar       | chercher         | busco     | buscas    | busca             |
+| encontrar    | trouver          | encuentro | encuentras| encuentra         |
+| hallar       | trouver          | hallo     | hallas    | halla             |
+| perder       | perdre           | pierdo    | pierdes   | pierde            |
+| dejar        | laisser          | dejo      | dejas     | deja              |
+| abandonar    | abandonner       | abandono  | abandonas | abandona          |
+| olvidar      | oublier          | olvido    | olvidas   | olvida            |
+| recordar     | se rappeler      | recuerdo  | recuerdas | recuerda          |
+| aprender     | apprendre        | aprendo   | aprendes  | aprende           |
+| enseñar      | enseigner        | enseño    | enseñas   | enseña            |
+| estudiar     | étudier          | estudio   | estudias  | estudia           |
+| practicar    | pratiquer        | practico  | practicas | practica          |
+| entrenar     | entraîner        | entreno   | entrenas  | entrena           |
+| trabajar     | travailler       | trabajo   | trabajas  | trabaja           |
+| colaborar    | collaborer       | colaboro  | colaboras | colabora          |
+| ayudar       | aider            | ayudo     | ayudas    | ayuda             |
+| participar   | participer       | participo | participas| participa         |
+| contribuir   | contribuer       | contribuyo| contribuyes| contribuye        |
+| compartir    | partager         | comparto  | compartes | comparte          |
+| comunicar    | communiquer      | comunico  | comunicas | comunica          |
+| informar     | informer         | informo   | informas  | informa           |
+| avisar       | prévenir         | aviso     | avisas    | avisa             |
+| advertir     | avertir          | advierto  | adviertes | advierte          |
+| anunciar     | annoncer         | anuncio   | anuncias  | anuncia           |
+| declarar     | déclarer         | declaro   | declaras  | declara           |
+| explicar     | expliquer        | explico   | explicas  | explica           |
+| describir    | décrire          | describo  | describes | describe          |
+| contar       | raconter         | cuento    | cuentas   | cuenta            |
+| narrar       | narrer           | narro     | narras    | narra             |
+| relatar      | relater          | relato    | relatas   | relata            |
+| preguntar    | demander         | pregunto  | preguntas | pregunta          |
+| responder    | répondre         | respondo  | respondes | responde          |
+| contestar    | répondre         | contesto  | contestas | contesta          |
+| afirmar      | affirmer         | afirmo    | afirmas   | afirma            |
+| negar        | nier             | niego     | niegas    | niega             |
+| dudar        | douter           | dudo      | dudas     | duda              |
+| suponer      | supposer         | supongo   | supones   | supone            |
+| imaginar     | imaginer         | imagino   | imaginas  | imagina           |
+| pensar       | penser           | pienso    | piensas   | piensa            |
+| creer        | croire           | creo      | crees     | cree              |
+| opinar       | donner son avis  | opino     | opinas    | opina             |
+| considerar   | considérer       | considero | consideras| considera         |
+| estimar      | estimer          | estimo    | estimas   | estima            |
+| valorar      | évaluer          | valoro    | valoras   | valora            |
+| juzgar       | juger            | juzgo     | juzgas    | juzga             |
+| criticar     | critiquer        | critico   | criticas  | critica           |
+| analizar     | analyser         | analizo   | analizas  | analiza           |
+| discutir     | discuter         | discuto   | discutes  | discute           |
+| debatir      | débattre         | debato    | debates   | debate            |
+| dialogar     | dialoguer        | dialogo   | dialogas  | dialoga           |
+| conversar    | converser        | converso  | conversas | conversa          |
+| charlar      | bavarder         | charlo    | charlas   | charla            |
+| platicar     | bavarder (Amér.) | platico   | platicas  | platica           |
+| bromear      | plaisanter       | bromeo    | bromeas   | bromea            |
+| reír         | rire             | río       | ríes      | ríe               |
+| sonreír      | sourire          | sonrío    | sonríes   | sonríe            |
+| llorar       | pleurer          | lloro     | lloras    | llora             |
+| gritar       | crier            | grito     | gritas    | grita             |
+| susurrar     | chuchoter        | susurro   | susurras  | susurra           |
+| cantar       | chanter          | canto     | cantas    | canta             |
+| silbar       | siffler          | silbo     | silbas    | silba             |
+| aplaudir     | applaudir        | aplaudo   | aplaudes  | aplaude           |
+| celebrar     | célébrer         | celebro   | celebras  | celebra           |
+| felicitar    | féliciter        | felicito  | felicitas | felicita          |
+| brindar      | porter un toast  | brindo    | brindas   | brinda            |
+| invitar      | inviter          | invito    | invitas   | invita            |
+| acoger       | accueillir       | acojo     | acoges    | acoge             |
+| recibir      | recevoir         | recibo    | recibes   | recibe            |
+| despedir     | dire au revoir   | despido   | despides  | despide           |
+| saludar      | saluer           | saludo    | saludas   | saluda            |
+| presentar    | présenter        | presento  | presentas | presenta          |
+| mostrar      | montrer          | muestro   | muestras  | muestra           |
+| enseñar      | enseigner        | enseño    | enseñas   | enseña            |
+| aprender     | apprendre        | aprendo   | aprendes  | aprende           |
+| estudiar     | étudier          | estudio   | estudias  | estudia           |
+| leer         | lire             | leo       | lees      | lee               |
+| escribir     | écrire           | escribo   | escribes  | escribe           |
+| dibujar      | dessiner         | dibujo    | dibujas   | dibuja            |
+| pintar       | peindre          | pinto     | pintas    | pinta             |
+| fotografiar  | photographier    | fotografío| fotografías| fotografía        |
+| grabar       | enregistrer      | grabo     | grabas    | graba             |
+| filmar       | filmer           | filmo     | filmas    | filma             |
+| cocinar      | cuisiner         | cocino    | cocinas   | cocina            |
+| comer        | manger           | como      | comes     | come              |
+| beber        | boire            | bebo      | bebes     | bebe              |
+| desayunar    | prendre le petit-déjeuner | desayuno | desayunas | desayuna  |
+| almorzar     | déjeuner         | almuerzo  | almuerzas | almuerza          |
+| cenar        | dîner            | ceno      | cenas     | cena              |
+| comprar      | acheter          | compro    | compras   | compra            |
+| vender       | vendre           | vendo     | vendes    | vende             |
+| pagar        | payer            | pago      | pagas     | paga              |
+| gastar       | dépenser         | gasto     | gastas    | gasta             |
+| ahorrar      | économiser       | ahorro    | ahorras   | ahorra            |
+| invertir     | investir         | invierto  | inviertes | invierte          |
+| prestar      | prêter           | presto    | prestas   | presta            |
+| deber        | devoir           | debo      | debes     | debe              |
 
 ## Conjunctions
 
@@ -613,79 +1022,6 @@ Places / Buildings / Geography
 | parque infantil   | aire de jeux         |
 | zona peatonal     | zone piétonne        |
 
-Common Verbs
-
-| Spanish      | French                |
-|--------------|----------------------|
-| ser          | être                  |
-| estar        | être (temporaire)     |
-| tener        | avoir                 |
-| hacer        | faire                 |
-| ir           | aller                 |
-| venir        | venir                 |
-| decir        | dire                  |
-| hablar       | parler                |
-| comer        | manger                |
-| beber        | boire                 |
-| vivir        | vivre                 |
-| trabajar     | travailler            |
-| estudiar     | étudier               |
-| leer         | lire                  |
-| escribir     | écrire                |
-| escuchar     | écouter               |
-| mirar        | regarder              |
-| ver          | voir                  |
-| caminar      | marcher               |
-| correr       | courir                |
-| jugar        | jouer                 |
-| dormir       | dormir                |
-| despertar    | réveiller             |
-| comprar      | acheter               |
-| vender       | vendre                |
-| abrir        | ouvrir                |
-| cerrar       | fermer                |
-| entrar       | entrer                |
-| salir        | sortir                |
-| llegar       | arriver               |
-| volver       | revenir               |
-| empezar      | commencer             |
-| terminar     | finir                 |
-| cambiar      | changer               |
-| usar         | utiliser              |
-| necesitar    | avoir besoin          |
-| querer       | vouloir               |
-| poder        | pouvoir               |
-| saber        | savoir                |
-| conocer      | connaître             |
-| perder       | perdre                |
-| ganar        | gagner                |
-| aprender     | apprendre             |
-| enseñar      | enseigner             |
-| buscar       | chercher              |
-| encontrar    | trouver               |
-| ayudar       | aider                 |
-| preguntar    | demander              |
-| responder    | répondre              |
-| esperar      | attendre              |
-| creer        | croire                |
-| pensar       | penser                |
-| sentir       | ressentir             |
-| morir        | mourir                |
-| nacer        | naître                |
-| llamar       | appeler               |
-| viajar       | voyager               |
-| saludar      | saluer                |
-| despedir     | dire au revoir / renvoyer |
-| recordar     | se rappeler           |
-| olvidar      | oublier               |
-| comprender   | comprendre            |
-| explicar     | expliquer             |
-| mostrar      | montrer               |
-| subir        | monter                |
-| bajar        | descendre             |
-| romper       | casser                |
-| arreglar     | réparer               |
-| cocinar      | cuisiner              |
 
 Adjectives
 
@@ -746,89 +1082,6 @@ Adjectives
 | pesado       | lourd                 |
 | ligero       | léger                 |
 
-Adverbs
-
-| Spanish      | French                |
-|--------------|----------------------|
-| ya           | déjà / maintenant    |
-| también      | aussi                |
-| incluso      | même                 |
-| solo         | seulement / juste    |
-| además       | en plus              |
-| muy          | très                 |
-| bien         | bien                 |
-| mal          | mal                  |
-| aquí         | ici                  |
-| allí         | là / là-bas          |
-| ahora        | maintenant           |
-| nunca        | jamais               |
-| siempre      | toujours             |
-| todavía      | encore / toujours    |
-| casi         | presque              |
-| quizá        | peut-être            |
-| pronto       | bientôt              |
-| despacio     | lentement            |
-| rápidamente  | rapidement           |
-| antes        | avant                |
-| después      | après                |
-| ayer         | hier                 |
-| hoy          | aujourd’hui          |
-| mañana       | demain               |
-| frecuentemente | fréquemment        |
-| generalmente | généralement         |
-| regularmente | régulièrement        |
-| temprano     | tôt                  |
-| tarde        | tard                 |
-| a menudo     | souvent              |
-| nunca más    | jamais plus          |
-| ya no        | plus maintenant      |
-| prácticamente| pratiquement         |
-| realmente    | réellement / vraiment|
-| exactamente  | exactement           |
-| apenas       | à peine              |
-| finalmente   | finalement           |
-| seguramente  | sûrement             |
-| posiblemente | possiblement         |
-| claramente   | clairement           |
-| simplemente  | simplement           |
-| totalmente   | totalement           |
-| completamente| complètement         |
-| absolutamente| absolument           |
-| principalmente| principalement      |
-| efectivamente| effectivement        |
-| igualmente   | également            |
-| súper        | super / très         |
-| demasiado    | trop                 |
-| mucho        | beaucoup             |
-| poco         | peu                  |
-| bastante     | assez                |
-| casi nunca   | presque jamais       |
-| por fin      | enfin                |
-| hoy en día   | de nos jours         |
-| de repente   | soudain              |
-| mientras tanto| pendant ce temps    |
-| de vez en cuando| de temps en temps  |
-| al principio | au début             |
-| al final     | à la fin             |
-| cerca        | près                 |
-| lejos        | loin                 |
-| arriba       | en haut              |
-| abajo        | en bas               |
-| afuera       | dehors               |
-| adentro      | dedans               |
-| delante      | devant               |
-| detrás       | derrière             |
-| aquí mismo   | juste ici            |
-| allí mismo   | juste là             |
-| junto        | ensemble / près      |
-| solamente    | seulement            |
-| demasiado tarde| trop tard          |
-| muy temprano | très tôt             |
-| aún          | encore               |
-| ya mismo     | tout de suite        |
-| inmediatamente| immédiatement       |
-| próximamente | prochainement        |
-| hoy por hoy  | aujourd’hui          |
 
 Numbers, Colors, Time, Question Words
 
@@ -968,5 +1221,152 @@ Other Useful Adjectives
 
 **Tip:**  
 Most adjectives agree in gender and number with the noun they describe (e.g., _niño pequeño_, _niña pequeña_, _niños pequeños_, _niñas pequeñas_).
+
+common
+
+| Spanish      | French                |
+|--------------|----------------------|
+| bueno        | bon                   |
+| malo         | mauvais               |
+| grande       | grand                 |
+| pequeño      | petit                 |
+| nuevo        | nouveau               |
+| viejo        | vieux                 |
+| joven        | jeune                 |
+| mayor        | plus âgé              |
+| menor        | plus jeune            |
+| rápido       | rapide                |
+| lento        | lent                  |
+| fácil        | facile                |
+| difícil      | difficile             |
+| rico         | riche / délicieux     |
+| pobre        | pauvre                |
+| feliz        | heureux               |
+| triste       | triste                |
+| limpio       | propre                |
+| sucio        | sale                  |
+| caliente     | chaud                 |
+| frío         | froid                 |
+| alto         | haut / grand          |
+| bajo         | bas / petit           |
+| corto        | court                 |
+| largo        | long                  |
+| blanco       | blanc                 |
+| negro        | noir                  |
+| rojo         | rouge                 |
+| azul         | bleu                  |
+| verde        | vert                  |
+| amarillo     | jaune                 |
+| bonito       | joli                  |
+| feo          | laid                  |
+| fuerte       | fort                  |
+| débil        | faible                |
+| inteligente  | intelligent           |
+| tonto        | idiot                 |
+| caro         | cher                  |
+| barato       | pas cher              |
+| lleno        | plein                 |
+| vacío        | vide                  |
+| cerca        | proche                |
+| lejos        | loin                  |
+| contento     | content               |
+| enfermo      | malade                |
+| sano         | sain                  |
+| tranquilo    | tranquille            |
+| ocupado      | occupé                |
+| libre        | libre                 |
+| importante   | important             |
+| grueso       | épais                 |
+| delgado      | mince                 |
+| pesado       | lourd                 |
+| ligero       | léger                 |
+
+---
+
+## Adverbes
+
+Adverbs
+
+| Spanish      | French                |
+|--------------|----------------------|
+| ya           | déjà / maintenant    |
+| también      | aussi                |
+| incluso      | même                 |
+| solo         | seulement / juste    |
+| además       | en plus              |
+| muy          | très                 |
+| bien         | bien                 |
+| mal          | mal                  |
+| aquí         | ici                  |
+| allí         | là / là-bas          |
+| ahora        | maintenant           |
+| nunca        | jamais               |
+| siempre      | toujours             |
+| todavía      | encore / toujours    |
+| casi         | presque              |
+| quizá        | peut-être            |
+| pronto       | bientôt              |
+| despacio     | lentement            |
+| rápidamente  | rapidement           |
+| antes        | avant                |
+| después      | après                |
+| ayer         | hier                 |
+| hoy          | aujourd’hui          |
+| mañana       | demain               |
+| frecuentemente | fréquemment        |
+| generalmente | généralement         |
+| regularmente | régulièrement        |
+| temprano     | tôt                  |
+| tarde        | tard                 |
+| a menudo     | souvent              |
+| nunca más    | jamais plus          |
+| ya no        | plus maintenant      |
+| prácticamente| pratiquement         |
+| realmente    | réellement / vraiment|
+| exactamente  | exactement           |
+| apenas       | à peine              |
+| finalmente   | finalement           |
+| seguramente  | sûrement             |
+| posiblemente | possiblement         |
+| claramente   | clairement           |
+| simplemente  | simplement           |
+| totalmente   | totalement           |
+| completamente| complètement         |
+| absolutamente| absolument           |
+| principalmente| principalement      |
+| efectivamente| effectivement        |
+| igualmente   | également            |
+| súper        | super / très         |
+| demasiado    | trop                 |
+| mucho        | beaucoup             |
+| poco         | peu                  |
+| bastante     | assez                |
+| casi nunca   | presque jamais       |
+| por fin      | enfin                |
+| hoy en día   | de nos jours         |
+| de repente   | soudain              |
+| mientras tanto| pendant ce temps    |
+| de vez en cuando| de temps en temps  |
+| al principio | au début             |
+| al final     | à la fin             |
+| cerca        | près                 |
+| lejos        | loin                 |
+| arriba       | en haut              |
+| abajo        | en bas               |
+| afuera       | dehors               |
+| adentro      | dedans               |
+| delante      | devant               |
+| detrás       | derrière             |
+| aquí mismo   | juste ici            |
+| allí mismo   | juste là             |
+| junto        | ensemble / près      |
+| solamente    | seulement            |
+| demasiado tarde| trop tard          |
+| muy temprano | très tôt             |
+| aún          | encore               |
+| ya mismo     | tout de suite        |
+| inmediatamente| immédiatement       |
+| próximamente | prochainement        |
+| hoy por hoy  | aujourd’hui          |
 
 ---
