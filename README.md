@@ -17,8 +17,8 @@ Core (use all the time)
 8. [Adverbes](#adverbes)
 
 ---
-## Articles
-
+<details>
+<summary><h2>Articles</h2></summary>
 
 | Spanish | French           | Notes                    |
 |---------|------------------|--------------------------|
@@ -48,6 +48,8 @@ Examples
 - **una manzana** → une pomme (an apple)
 - **unos niños** → des enfants (some boys)
 - **unas chicas** → des filles (some girls)
+
+</details>
 
 ---
 
